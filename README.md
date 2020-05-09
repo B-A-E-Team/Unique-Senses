@@ -1,7 +1,3 @@
-# Unique-Senses
-This application will allow people who have disabilities to connect with other individuals who may or may not have the same disability.
-Group Project - README Template
-===
 
 # Unique Senses
 
@@ -32,13 +28,13 @@ This application will allow people who have disabilities to connect with other i
 **Required Must-have Stories**
 
 * [fill in your required user stories here]
-[x]User can log in OR create an account
-[x]User is able to change password or username
-[x]User is able to use "search" tab 
-[x]User is able to refresh screen and click features
-[x]User is able to view other accounts on newsfeed 
-[x]User can switch between different tabs such as Home and Profile 
-[x]App style and functionality relates to "real life" social media
+-[x]User can log in OR create an account
+-[x]User is able to change password or username
+-[x]User is able to use "search" tab 
+-[x]User is able to refresh screen and click features
+-[x]User is able to view other accounts on newsfeed 
+-[x]User can switch between different tabs such as Home and Profile 
+-[x]App style and functionality relates to "real life" social media
 
 
 **Optional Nice-to-have Stories**
@@ -128,9 +124,9 @@ This application will allow people who have disabilities to connect with other i
 
 | Issues Created| Project Board | Tasks |
 | ----          | ----- | ----- |
-| API needed    |API or create data |Find API
-| Gifs for README|Create Gifs | Update gifs for submission
-|User story needs more|Create more user interaction    |Create Gifs and more Screens
+| API needed    |API or create data |API Found
+| Gifs for README|Improve Gifs | Update gifs for new submission
+|More interaction within the User Story|Create more user interaction    | Add more to wireframes and User Story
 
 ### GIFS
 ![](https://i.imgur.com/rZOSuZZ.gif)
@@ -138,9 +134,6 @@ This application will allow people who have disabilities to connect with other i
 ![](https://i.imgur.com/5zYGHwn.gif)
 ![](https://i.imgur.com/nzkRp5f.gif)
 ![](https://i.imgur.com/VGWUv9K.gif)
-
-
-
 
 
 ### Models
